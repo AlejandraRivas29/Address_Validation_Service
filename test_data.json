@@ -1,0 +1,95 @@
+{
+    "customers":[
+        {
+            "firstName": "John",
+            "lastName": "Doe",
+            "addressLine1": "PO Box 4582",
+            "addressLine2": "",
+            "city": "New York",
+            "state": "NY",
+            "zipCode": "10001",
+            "country": "USA"
+          },
+          {
+            "firstName": "Jane",
+            "lastName": "Smith",
+            "addressLine1": "PO 12345",
+            "addressLine2": "",
+            "city": "New York",
+            "state": "NY",
+            "zipCode": "10001",
+            "country": "USA"
+          },
+          {
+            "firstName": "Jane",
+            "lastName": "Doe",
+            "addressLine1": "P.O. Box 123",
+            "addressLine2": "",
+            "city": "New York",
+            "state": "NY",
+            "zipCode": "10001",
+            "country": "USA"
+          },
+          {
+            "firstName": "John",
+            "lastName": "Smith",
+            "addressLine1": "123 Pool Ave",
+            "addressLine2": "",
+            "city": "New York",
+            "state": "NY",
+            "zipCode": "10001",
+            "country": "USA"
+          },
+          {
+            "firstName": "Emma",
+            "lastName": "Smith",
+            "addressLine1": "123 Box Elder Way",
+            "addressLine2": "",
+            "city": "New York",
+            "state": "NY",
+            "zipCode": "10001",
+            "country": "USA"
+          },
+          {
+            "firstName": "Sam",
+            "lastName": "Smith",
+            "addressLine1": "BOX 124 4900",
+            "addressLine2": "",
+            "city": "New York",
+            "state": "NY",
+            "zipCode": "10001",
+            "country": "USA"
+          },
+          {
+            "firstName": "Will",
+            "lastName": "Smith",
+            "addressLine1": "PO 123 NE 52nd St",
+            "addressLine2": "",
+            "city": "New York",
+            "state": "NY",
+            "zipCode": "10001",
+            "country": "USA"
+          },
+          {
+            "firstName": "Jane",
+            "lastName": "Smith",
+            "addressLine1": "5489 (1) State St.",
+            "addressLine2": "",
+            "city": "New York",
+            "state": "NY",
+            "zipCode": "10001",
+            "country": "USA"
+          },
+          {
+            "firstName": "Will",
+            "lastName": "Doe",
+            "addressLine1": "NE PO #123 53rd Box",
+            "addressLine2": "",
+            "city": "New York",
+            "state": "NY",
+            "zipCode": "10001",
+            "country": "USA"
+          }
+]
+}
+
